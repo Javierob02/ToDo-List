@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This GitHub repository contains the source code for a simple iOS app that allows users to manage their tasks. The main page of the app displays a list of all tasks, and users can add new tasks or modify existing ones. The app provides a simple and intuitive interface for organizing and keeping track of tasks.
+This GitHub repository contains the source code for a simple iOS app that allows users to manage their tasks. The main page of the app displays a list of all tasks, and users can add new tasks or modify existing ones. Tasks can be deleted by sliding them to the left. The app provides a simple and intuitive interface for organizing and keeping track of tasks.
 
 ## Images
 
